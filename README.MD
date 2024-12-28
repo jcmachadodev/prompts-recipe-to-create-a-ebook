@@ -22,7 +22,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/jcmachadodev/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook%20-%20OAuth%202.0%20A%20Chave%20para%20Seguran%C3%A7a%20Digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
