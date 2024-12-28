@@ -35,22 +35,22 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-Faça um texto para Ebook, com foco em explicar sobre Oauth 2.0.
+|prompt                                                                                 |
+|---------------------------------------------------------------------------------------|
+|Faça um texto para Ebook, com foco em explicar sobre Oauth 2.0.                        |
+|                                                                                       | 
+|{REGRAS}                                                                               | 
+|>Explique de maneiras simples                                                          |   
+|>Deixe o texto enxuto                                                                  |     
+|>Sempre deixa um titulo sugestivo por topico                                           |  
+|>Parta do ponto que o livro é para desenvolvedores Jr                                  |  
 
-{REGRAS}
->Explique de maneiras simples
->Deixe o texto enxuto
->Sempre deixa um titulo sugestivo por topico
->Parta do ponto que o livro é para desenvolvedores Jr
 
-
-Copilot
+Copilot:
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | create an image who represents Oauth 2.0                                                  |
+| título | create an image who represents Oauth 2.0                                               |
 
 ## ✨ Features
 
